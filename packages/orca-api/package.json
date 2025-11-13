@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "bcrypt": "^5.0.1",
-    "cloudinary": "^1.23.0",
+    "cloudinary": "^2.7.0",
     "compression": "^1.7.4",
     "connect-mongo": "^3.2.0",
     "cookie-parser": "^1.4.5",
